@@ -16,6 +16,6 @@
 
 ## Live Demo
 
-You can try the app live here: [Churnify AI Web App](YOUR_DEPLOYED_LINK_HERE)
+You can try the app live here: [Churnify AI Web App](https://churnifyai.streamlit.app/)
 
 ---
