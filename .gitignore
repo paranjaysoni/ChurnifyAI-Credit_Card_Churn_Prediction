@@ -1,0 +1,13 @@
+# Temp & model files
+temp_model.h5
+*.pkl
+tuner_dir/
+.DS_Store
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# Logs
+*.log
